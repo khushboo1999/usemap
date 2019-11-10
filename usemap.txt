@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+<body>
+<h2>The Use of Usemap.</h2>
+<img src="lapi.jpeg" alt="earth.jpeg" usemap="#workmap" width="1280" height="915">
+<map name="workmap">
+<area shape="rect" coords="503,455,893,636" alt="computer" href="css.html">
+<area shape="circle" coords="407,136,90" alt="cup" href="form1.html">
+</map>
+</body>
+</html>
